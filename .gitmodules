@@ -1,0 +1,3 @@
+[submodule "docs-llm-backend"]
+	path = docs-llm-backend
+	url = git@github.com:LeoFernanndes/docs-llm-backend.git
